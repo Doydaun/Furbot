@@ -1,5 +1,5 @@
 <?php
 
-echo "vai se fuder";
+echo "Nada de mais";
 
 ?>
